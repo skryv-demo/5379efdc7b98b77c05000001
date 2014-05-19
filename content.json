@@ -1,1 +1,55 @@
-{}
+{
+    "patiëntgegevens": {
+        "geslacht": {
+            "selectedChoice": "Vrouw"
+        },
+        "etniciteit_vader": {},
+        "etniciteit_moeder": {},
+        "jaar_van_datacollectie": 2013,
+        "naam": "Landuyt",
+        "voornaam": "Maarten",
+        "geboortemaand": 10,
+        "geboortejaar": 2008
+    },
+    "datacollectie": {
+        "algemeen": {
+            "taalproblemen": {
+                "selectedChoices": {}
+            },
+            "puberteitprepuberteit": {},
+            "insulineschema": {}
+        },
+        "metingen": {
+            "lengte": {},
+            "gewicht": {},
+            "systolische_bloeddruk": {},
+            "diastolische_bloeddruk": {}
+        },
+        "screenings": {
+            "coeliakie": {
+                "selectedChoices": {}
+            },
+            "schildklierimmuniteit": {
+                "selectedChoices": {}
+            },
+            "hypo_of_hyperthyreoïdie": {
+                "selectedChoices": {}
+            },
+            "epilepsie": {
+                "selectedChoices": {}
+            },
+            "retinopathie": {
+                "selectedChoices": {}
+            },
+            "nefropathie": {
+                "selectedChoices": {}
+            },
+            "bloedlipiden": {
+                "selectedChoices": {}
+            },
+            "neuropathie": {
+                "selectedChoices": {}
+            }
+        }
+    }
+}
